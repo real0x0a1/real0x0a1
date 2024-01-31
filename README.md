@@ -23,3 +23,7 @@ src="https://img.shields.io/github/followers/real0x0a1 ?logo=github&style=for-th
 
 <p align="left"> <a href="https://www.github.com/real0x0a1 " target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
+### GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=real0x0a1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=real0x0a1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=real0x0a1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
