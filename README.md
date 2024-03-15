@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Developer.
 -----------------
 
-An enthusiastic programmer interested in Linux, Python and R who has started programming for 3 years.
+An enthusiastic programmer interested in Linux, Python, C, C++ and Ruby.
 
 * 🖥️  See my portfolio at [real0x0a1](http://real0x0a1.vercel.app)
 
