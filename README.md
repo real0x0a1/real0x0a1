@@ -11,7 +11,7 @@
 ### About Me
 - 🔭 Passionate about AI and backend development.
 - 💻 Experienced in Python, Ruby.
-- 🐧 Linux enthusiast with strong command-line expertise.
+- 🐧 Linux enthusiast with good command-line expertise.
 - 🌱 Currently exploring/learning Golang.
 - 📫 Portfolio: [real0x0a1.vercel.app](https://real0x0a1.vercel.app).
 
@@ -53,6 +53,16 @@
   </a>
 </p>
 
+### Coding Journey & Contributions
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=real0x0a1&theme=github_dark" alt="Contribution Graph" />
+</p>
+
+#### Contribution Metrics
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=real0x0a1&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophy Stats" />
+</p>
+
 ### GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=real0x0a1&show_icons=true&theme=dark&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
@@ -62,6 +72,11 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=real0x0a1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+### Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=real0x0a1&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
 ### Connect With Me
