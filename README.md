@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm real0x0a1</h1>
-<h3 align="center">Python Developer | Systems Programming Enthusiast</h3>
+<h3 align="center">Python Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=real0x0a1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -9,11 +9,11 @@
 </p>
 
 ### About Me
-- 🔭 Passionate about systems programming and backend development
-- 💻 Experienced in Python, C, C++, and Go
-- 🐧 Linux enthusiast with strong command-line expertise
-- 🌱 Currently exploring Rust and systems programming
-- 📫 Portfolio: [real0x0a1.vercel.app](https://real0x0a1.vercel.app)
+- 🔭 Passionate about AI and backend development.
+- 💻 Experienced in Python, Ruby.
+- 🐧 Linux enthusiast with strong command-line expertise.
+- 🌱 Currently exploring/learning Golang.
+- 📫 Portfolio: [real0x0a1.vercel.app](https://real0x0a1.vercel.app).
 
 ### Technical Skills
 
