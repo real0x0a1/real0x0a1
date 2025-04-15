@@ -43,14 +43,10 @@
   </a>
 </p>
 
-#### Operating Systems
+#### Operating System
 <p align="left">
   <a href="https://www.linux.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" alt="Linux" />
-  </a>
-  <a href="https://apple.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="40" height="40" alt="MacOS" />
-  </a>
 </p>
 
 ### Coding Journey & Contributions
